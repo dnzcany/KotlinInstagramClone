@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="30dp"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:id="@+id/emailrecycle">
+
+    </TextView>
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:id="@+id/photorecycle"
+
+
+        >
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Comment"
+        android:textSize="30dp"
+        android:layout_margin="5dp"
+        android:textColor="@color/black"
+        android:id="@+id/commentrecycle">
+
+    </TextView>
+
+</LinearLayout>

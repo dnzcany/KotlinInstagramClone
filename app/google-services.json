@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "838056071560",
+    "project_id": "kotlininstagram2-83125",
+    "storage_bucket": "kotlininstagram2-83125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838056071560:android:1caf71a7de49541e212a3d",
+        "android_client_info": {
+          "package_name": "com.denobaba.kotlininstagram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838056071560-9s5556tm87at1ko5p8cvisukv1cgmn73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39xHJ5BONnMTLi8zVR_eDkytct2_W8vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838056071560-9s5556tm87at1ko5p8cvisukv1cgmn73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838056071560:android:9667335c88705c74212a3d",
+        "android_client_info": {
+          "package_name": "com.denobaba.kotlininstagram3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838056071560-9s5556tm87at1ko5p8cvisukv1cgmn73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39xHJ5BONnMTLi8zVR_eDkytct2_W8vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838056071560-9s5556tm87at1ko5p8cvisukv1cgmn73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
